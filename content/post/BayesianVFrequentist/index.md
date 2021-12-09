@@ -370,11 +370,3 @@ $(document).ready(function () {
 </body>
 </html>
 
-
-
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
